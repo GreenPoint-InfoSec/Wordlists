@@ -4,11 +4,13 @@ Tailor them to your target:
 
 - What technologies are they using?
 - Legacy technologies?
+- What have you found in recon?
 
-
+## Tips and Tricks
 
 curl target and the coding language documentation to elimanate the html/js/css etc.
 
+Check these files for potential files missed by crawlers and search engines:
 
 - robots.txt
 - .gitignore
@@ -30,3 +32,4 @@ https://gist.github.com/jhaddix/b80ea67d85c13206125806f0828f4d10
 
 https://github.com/xajkep/wordlists
 
+https://github.com/Karanxa/Bug-Bounty-Wordlists
