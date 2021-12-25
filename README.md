@@ -18,6 +18,14 @@ Check these files for potential files missed by crawlers and search engines:
 - Rakefile
 - Fakefile
 
+## Tools
+
+https://github.com/GainSec/GoldenNuggets-1
+
+https://github.com/codingo/DNSCewl
+
+
+
 ## Useful Resources
 
 https://github.com/danielmiessler/SecLists
@@ -33,3 +41,5 @@ https://gist.github.com/jhaddix/b80ea67d85c13206125806f0828f4d10
 https://github.com/xajkep/wordlists
 
 https://github.com/Karanxa/Bug-Bounty-Wordlists
+
+https://github.com/chrislockard/api_wordlist
