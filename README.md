@@ -32,6 +32,8 @@ https://github.com/danielmiessler/SecLists
 
 https://github.com/jhaddix/SecLists
 
+https://www.netsparker.com/blog/web-security/svn-digger-better-lists-for-forced-browsing/
+
 https://github.com/jhaddix/tbhm/blob/master/v4/all2.txt
 
 https://gist.github.com/jhaddix/86a06c5dc309d08580a018c66354a056
